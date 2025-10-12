@@ -3,7 +3,7 @@ title: "Infrarot-Emitter"
 date: "2018-10-01T13:29:36.000Z"
 tags: 
   - "output"
-coverImage: "15_infrarot_emitter.jpg"
+coverImage: "15_infrarot_emitter.png"
 material_number: "15"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Infrared Emitter"
