@@ -16,9 +16,6 @@ repo_part: "Grove_Infrared_Emitter"
 product_url: "https://wiki.seeedstudio.com/Grove-Infrared_Emitter/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Infrared_Emitter.git"
 embedded_example_file: "examples/Grove_Infrared_Emitter_minimal/Grove_Infrared_Emitter_minimal.ino"
-title: 'Infrarot-Emitter'
-status: 'active'
-difficulty: 'expert'
 ---
 
 
